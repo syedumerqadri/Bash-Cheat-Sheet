@@ -4,4 +4,4 @@
 useful guide for bash scripting
 
 Here you go:
-https://github.com/syedumerqadri/Bash-Cheat-Sheet/wiki/Wiki
+https://github.com/syedumerqadri/Bash-Cheat-Sheet/wiki
